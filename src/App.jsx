@@ -340,6 +340,8 @@ export default function App() {
             className="text-3xl sm:text-4xl md:text-5xl font-bold mb-8"
           >
             Hey 👋
+            Bangalan kahan ghoom rahi ho , kaisa raha tumhara din ?
+            Thik toh ho na tum !
           </motion.h1>
 
           <motion.p
@@ -392,7 +394,7 @@ export default function App() {
               transition={{ delay: 1 }}
               className="text-2xl sm:text-3xl md:text-4xl mt-6 cursor-pointer"
             >
-              Dear Jasleen ❤️
+              Dear jo bhi birthday wale ka naam hai 
             </motion.h2>
 
             <motion.p
