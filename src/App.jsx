@@ -393,7 +393,7 @@ export default function App() {
               transition={{ delay: 1 }}
               className="text-2xl sm:text-3xl md:text-4xl mt-6 cursor-pointer"
             >
-              Dear jo bhi birthday wale ka naam hai 
+              Dear jasleen
             </motion.h2>
 
             <motion.p
