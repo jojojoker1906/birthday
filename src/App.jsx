@@ -340,8 +340,7 @@ export default function App() {
             className="text-3xl sm:text-4xl md:text-5xl font-bold mb-8"
           >
             Hey 👋
-            Bangalan kahan ghoom rahi ho , kaisa raha tumhara din ?
-            Thik toh ho na tum !
+    
           </motion.h1>
 
           <motion.p
