@@ -128,7 +128,7 @@
 //               transition={{ delay: 1 }}
 //               className="text-4xl mt-6 cursor-pointer"
 //             >
-//               Dear RIYA ❤️
+//               Dear Jasleen ❤️
 //             </motion.h2>
 
 //             <motion.p
@@ -393,7 +393,7 @@ export default function App() {
               transition={{ delay: 1 }}
               className="text-2xl sm:text-3xl md:text-4xl mt-6 cursor-pointer"
             >
-              Dear jasleen
+             Dear RIYA
             </motion.h2>
 
             <motion.p
