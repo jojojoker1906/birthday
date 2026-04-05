@@ -128,7 +128,7 @@
 //               transition={{ delay: 1 }}
 //               className="text-4xl mt-6 cursor-pointer"
 //             >
-//               Dear Jasleen ❤️
+//               Dear RIYA ❤️
 //             </motion.h2>
 
 //             <motion.p
