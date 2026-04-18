@@ -265,7 +265,8 @@ export default function App() {
             className="text-lg sm:text-xl md:text-2xl max-w-lg"
           >
             Wishing you happiness, love, and laughter always. ❤️
-            Muje yaad the par raat me so gaya me isliye subha bola, sorry .
+            pehle idhar maine kuch or likha tha .
+            
           </motion.p>
         </section>
       )}
