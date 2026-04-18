@@ -133,7 +133,7 @@ export default function App() {
               transition={{ delay: 1 }}
               className="text-2xl sm:text-3xl md:text-4xl mt-6 cursor-pointer"
             >
-             Dear RIYA
+             Dear JASLEEN KAUR 💖 
             </motion.h2>
 
             <motion.p
@@ -152,7 +152,7 @@ export default function App() {
               className="mt-10 bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-full shadow-lg"
               whileHover={{ scale: 1.1 }}
             >
-              See Your Birthday Cake 🎂
+               Your Birthday Cake 🎂
             </motion.button>
           </section>
         </>
